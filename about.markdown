@@ -3,14 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-
 ## Photo
-
-My name is Jonathan Finn, and I am a Computer Science major at Mississippi State University. I have programming experience in C++, Python, and basic web programming.
-I have worked with Trustmark bank as a web programmer, and have experince working with robotics.s
-
-
+My name is Jonathan Finn. I am a Computer Science major at Mississippi State University.
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
