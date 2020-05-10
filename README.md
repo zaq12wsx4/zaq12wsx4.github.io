@@ -1,3 +1,3 @@
-# Personal Webpage
+# My Personal Website
+This is a personal website for Jonathan Finn. I might post stuff occasionally
 
-This is just a personal webpage for me to present my resume in a nice way, eventually, as well as other personal pages
